@@ -1,2 +1,19 @@
 apiVersion: v1
 entries:
+  clustersecretstore:
+  - apiVersion: v2
+    appVersion: 1.0.1
+    created: "2023-06-01T23:05:20.383581879Z"
+    description: Helm Chart representing a single Storage Class Kubernetes API object
+    digest: 20377018c651f6ea6d82f4b0dca01573c6d54f8b26f77f0218a10afdbae5a09d
+    keywords:
+    - storageclass
+    - storage
+    - class
+    - api
+    - primitives
+    name: clustersecretstore
+    urls:
+    - https://github.com/logscale-contrib/helm-external-secrets-cluster-secret-store/releases/download/v1.0.1/clustersecretstore-1.0.1.tgz
+    version: 1.0.1
+generated: "2023-06-01T23:05:20.383177376Z"
