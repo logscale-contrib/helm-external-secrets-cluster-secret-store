@@ -1,7 +1,7 @@
 apiVersion: v2
 appVersion: "1.0.0"
 description: Helm Chart representing a single Storage Class Kubernetes API object
-name: storageclass
+name: clustersecretstore
 version: 1.0.0
 keywords:
   - storageclass
