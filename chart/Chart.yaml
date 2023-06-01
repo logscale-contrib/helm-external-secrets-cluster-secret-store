@@ -1,0 +1,11 @@
+apiVersion: v2
+appVersion: "1.0.2"
+description: Helm Chart representing a single Storage Class Kubernetes API object
+name: storageclass
+version: 1.0.2
+keywords:
+  - storageclass
+  - storage
+  - class
+  - api
+  - primitives
